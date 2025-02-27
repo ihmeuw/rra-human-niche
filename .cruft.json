@@ -1,0 +1,19 @@
+{
+  "template": "https://github.com/collijk/python-package-cookiecutter",
+  "commit": "d86abba2604d3fb06b718d45a83170b6315debde",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "author_name": "James Collins",
+      "author_email": "collijk@uw.edu",
+      "github_username": "collijk",
+      "project_name": "RRA Human Niche",
+      "project_slug": "rra-human-niche",
+      "package_name": "rra_human_niche",
+      "project_short_description": "Global analysis of the human climate niche.",
+      "_template": "https://github.com/collijk/python-package-cookiecutter",
+      "_commit": "d86abba2604d3fb06b718d45a83170b6315debde"
+    }
+  },
+  "directory": null
+}
