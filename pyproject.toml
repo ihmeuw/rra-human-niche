@@ -18,7 +18,8 @@ repository = "https://github.com/collijk/rra-human-niche"
 documentation = "https://collijk.github.io/rra-human-niche"
 
 [project.scripts]
-my-cli = "rra_human_niche.cli:main"
+hnrun = "rra_human_niche.cli:hnrun"
+hntask = "rra_human_niche.cli:hntask"
 
 [tool.poetry]
 packages = [
